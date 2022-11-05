@@ -14,5 +14,5 @@ A sample web page of Twitter Clone Let’s make simple Twitter. Users can post t
 * User can post tweets.
 * Users canedit tweets.
 * Users can delete tweets.
-* Users can send a like to a tweet
+* Users can send a like to a
 
